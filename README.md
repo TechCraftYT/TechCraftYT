@@ -6,7 +6,7 @@ I mostly code in C# but I do like to mess around in other areas such as Home Ass
 ⚡ Fun fact: I actually started my tech career when I was 3 years old!
 
 
-🌱 I’m currently learning basic C# coding
+🌱 I’m currently starting to learn in Python and am a low level in C#
 
 
 📫 You can reach me over @ admin@thetechlobby.site

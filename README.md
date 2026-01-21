@@ -9,10 +9,8 @@ I mostly code in C# but I do like to mess around in other areas such as Home Ass
 🌱 I’m currently starting to learn in Python and am a low level in C#
 
 
-📫 You can reach me over @ admin@thetechlobby.site
+📫 You can reach me over @ hello@selfhostedguy.com
 
-
-😄 Pronouns: He/Him, why do I even have to clarify that
 
 
 
